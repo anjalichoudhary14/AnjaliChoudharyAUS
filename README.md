@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @AnjaliChoudharyAUS
-- 👀 I’m interested in Machine Learning, Coding and Web Development.
-- 🌱 I’m currently learning NLP 
-- 💞️ I’m looking to collaborate on NLP based projects.
+- 👋 Hi, I’m Anjali
+- 👀 I’m doing Full Stack Development
 - 📫 How to reach me emailtoanjalichoudhary@gmail.com
 
 <!---
